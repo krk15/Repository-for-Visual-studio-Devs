@@ -10,6 +10,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            //visual studio codes first repo
+
+            //first local changes to be pushed to the github
         }
     }
 }
